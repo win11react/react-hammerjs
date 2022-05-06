@@ -1,5 +1,5 @@
 {
-  "name": "react-hammerjs",
+  "name": "@win11react/react-hammerjs",
   "version": "1.0.1",
   "description": "ReactJS / HammerJS integration. Support touch events in your React app.",
   "main": "lib/Hammer.js",
